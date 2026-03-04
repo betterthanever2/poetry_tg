@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Aggregator",
+  "description": "Aggregator of posts from telegram channels on a particular subject.",
+  "requestFramePermissions": []
+}
